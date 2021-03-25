@@ -12,4 +12,5 @@ A simple single screen Android App that display information about a small busine
     - Description of business.
     - Hours of operation.
     
-#App Design:
+# App Design:
+![alt text](https://github.com/sohamtupe55/SingleScreenAppforSmallBusinesses/blob/master/Screenshot%202021-03-25%20at%2010.48.52%20PM.png)
